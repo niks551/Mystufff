@@ -3,4 +3,6 @@ good morning
 how are you doing
 ajkdjflk
 sdfkljal'ds
-
+this is the line i changed
+This is the second time i am changing
+third time without commit
